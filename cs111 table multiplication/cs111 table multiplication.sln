@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs111 table multiplication", "cs111 table multiplication\cs111 table multiplication.csproj", "{23B5A73A-B79F-456E-BA2B-7C30F976568B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B5A73A-B79F-456E-BA2B-7C30F976568B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B5A73A-B79F-456E-BA2B-7C30F976568B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B5A73A-B79F-456E-BA2B-7C30F976568B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B5A73A-B79F-456E-BA2B-7C30F976568B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09F0A6C-E90C-423C-9997-9C60ED6D9C06}
+	EndGlobalSection
+EndGlobal

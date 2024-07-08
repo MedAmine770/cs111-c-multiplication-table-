@@ -1,0 +1,16 @@
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\bin\Debug\net6.0-windows\cs111 table multiplication.exe
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\bin\Debug\net6.0-windows\cs111 table multiplication.deps.json
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\bin\Debug\net6.0-windows\cs111 table multiplication.runtimeconfig.json
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\bin\Debug\net6.0-windows\cs111 table multiplication.dll
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\bin\Debug\net6.0-windows\cs111 table multiplication.pdb
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111_table_multiplication.Form1.resources
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.csproj.GenerateResource.cache
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.AssemblyInfoInputs.cache
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.AssemblyInfo.cs
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.csproj.CoreCompileInputs.cache
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.dll
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\refint\cs111 table multiplication.dll
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.pdb
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\cs111 table multiplication.genruntimeconfig.cache
+C:\Users\amineoul\source\repos\cs111 table multiplication\cs111 table multiplication\obj\Debug\net6.0-windows\ref\cs111 table multiplication.dll
